@@ -235,16 +235,16 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/Incricible"
+                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/Spartan_0_5"
             ),
         
             InlineKeyboardButton(
-                text="💘𝐒υρρσят𝐓💘", url="https://t.me/Rometic_world"
+                text="💘𝐒υρρσят𝐓💘", url="https://t.me/Spartan_Bio_05"
             ),
         ],    
         [
             InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/TG_BADNAM_HARSH"
+                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/Sp_artan05"
             ),
         
             InlineKeyboardButton(
@@ -479,16 +479,16 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/Incricible"
+                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/Spartan_0_5"
             ),
         
             InlineKeyboardButton(
-                text="💘𝐒υρρσят𝐓💘", url="https://t.me/Rometic_world"
+                text="💘𝐒υρρσят𝐓💘", url="https://t.me/Spartan_Bio_05"
             ),
         ],    
         [
             InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/TG_BADNAM_HARSH"
+                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/Sp_artan05"
             ),
         
             InlineKeyboardButton(
